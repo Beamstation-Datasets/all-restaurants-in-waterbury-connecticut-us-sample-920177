@@ -1,0 +1,12 @@
+{
+  "export_job_id": "bad8a5a0-97b5-440b-812b-c26ccfd77cd2",
+  "id_short": 920177,
+  "published_at": "2026-04-18T07:13:53Z",
+  "repo_name": "all-restaurants-in-waterbury-connecticut-us-sample-920177",
+  "sample_asset_name": "beamstation_920177_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/920177/beamstation_920177_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_records": 51,
+  "sample_sha256": "aae399eeb6a34327e389096b97772110d0b926695bbd70c4718c84f8bd6002d3",
+  "sample_size_bytes": 189969,
+  "total_records": 519
+}
