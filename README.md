@@ -1,6 +1,6 @@
 # All Restaurants in Waterbury, Connecticut, US
 
-> Free BeamStation sample export with 51 rows and masked direct-contact fields.
+> Free BeamStation sample export with 43 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `920177` |
 | Location | Waterbury |
 | Category | Restaurants |
-| Full dataset size | 519 records |
-| Free sample size | 51 records (9.83%) |
-| Last export | 2026-04-14T18:31:08.209041+00:00 |
+| Full dataset size | 436 records |
+| Free sample size | 43 records (9.86%) |
+| Last export | 2026-04-21T20:24:09.645474+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-waterbury-connecticut-us-sample-920177/releases/download/sample-latest/beamstation_920177_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
